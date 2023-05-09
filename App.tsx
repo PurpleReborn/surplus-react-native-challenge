@@ -19,6 +19,11 @@ const App = () => {
       <NavigationContainer>
         <Stack.Navigator>
           <Stack.Screen
+            name="HomeScreen"
+            component={HomeScreen}
+            options={{headerShown: false}}
+          />
+          <Stack.Screen
             name="RegisterScreen"
             component={RegisterScreen}
             options={{headerShown: false}}
@@ -26,11 +31,6 @@ const App = () => {
           <Stack.Screen
             name="LoginScreen"
             component={LoginScreen}
-            options={{headerShown: false}}
-          />
-          <Stack.Screen
-            name="HomeScreen"
-            component={HomeScreen}
             options={{headerShown: false}}
           />
         </Stack.Navigator>
