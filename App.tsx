@@ -19,13 +19,13 @@ const App = () => {
       <NavigationContainer>
         <Stack.Navigator>
           <Stack.Screen
-            name="HomeScreen"
-            component={HomeScreen}
+            name="RegisterScreen"
+            component={RegisterScreen}
             options={{headerShown: false}}
           />
           <Stack.Screen
-            name="RegisterScreen"
-            component={RegisterScreen}
+            name="HomeScreen"
+            component={HomeScreen}
             options={{headerShown: false}}
           />
           <Stack.Screen
