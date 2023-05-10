@@ -1,5 +1,5 @@
 <h1>surplus-react-native-challenge</h1>
-<hr><p>Surplus react native hallenge</p><h2>Technologies Used</h2>
+<hr><p>Surplus react native challenge</p><h2>Technologies Used</h2>
 <hr><ul>
 <li>React Native</li>
 </ul><ul>
@@ -30,5 +30,6 @@ Splash Screen | Signup Screen | Home Screen
 <li>After the dependencies have been installed, you can run the project on an emulator or physical device. To run the project on an Android emulator or device, run the following command: <code>yarn android</code></li>
 </ul><ul>
 <li>If you want to run the project on an iOS device or simulator, run the following command instead: <code>yarn ios</code></li>
+<li>For Unit Testing you can use command <code>yarn test</code></li>
 </ul><h2>Contact</h2>
 <hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/sandi-muhamad-rizalul/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a></p>
